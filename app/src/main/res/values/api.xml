@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scheme">https</string>
+    <string name="base_url">www.reddit.com</string>
+
+    <string name="api_segment">api/v1</string>
+    <string name="auth_segment">authorize.compact</string>
+    <string name="token_segment">acess_token</string>
+
+    <string name="token_post_data">grant_type=AUTHORIZATION_CODE&amp;code=CODE&amp;redirect_uri=URI</string>
+
+    <string name="client_id">bMWTrfpVU4004g</string>
+    <string name="response_type">code</string>
+    <string name="redirect_uri">https://github.com/lburkett/Vot</string>
+    <string name="duration">permanent</string>
+    <string name="scope">identity, edit, flair, history, modconfig, modflair, modlog, modposts, modwiki, mysubreddits, privatemessages, read, report, save, submit, subscribe, vote, wikiedit, wikiread</string>
+    <string name="state">123456789test</string>
+
+    <string name="code">code</string>
+    <string name="error">error</string>
+</resources>
